@@ -1,6 +1,8 @@
 This is a very early stage of the program. Hard-Coded paths for memory, iDRAC IP, and Login credentials.
 
-program requiring the use of an external program (impi, and the harder to find impi.exe if your running windows). 
+program requiring the use of an external program (impi, and the harder to find impi.exe if your running windows).
+  https://github.com/ipmitool/ipmitool
+  https://www.dannynieuwenhuis.nl/download-windows-ipmitool-exe-version-1-8-18/
 Once impi is installed, and reachable to the system (try to use 'impi' in CMD / Terminal, you should get a responce saying to use a target IP)
 
 I Included the neccisary variable, 'debug' in case it doesnt work for others.
